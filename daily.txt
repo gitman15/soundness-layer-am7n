@@ -8,3 +8,6 @@ sheri
 
 
 soundness-cli send --proof-file="dY86eu9ZYroOHD1bas37KXzYildPTgZgwQFJ7TQeoNo" --game="8queens" --key-name="" --proving-system="ligetron" --payload='{"program": "/root/ligero_internal/sdk/build/examples/8queen.wasm", "shader-path": "/root/ligero_internal/shader", "packing": 8192, "private-indices": [1, 2], "args": [{"str": "1111111111111111"}, {"str": "11111111111111111111111111111111"}, {"str": "zVWYIByW0OIPXbCGnzvxnIQGI5kxMBgsMiHgTiilCz0="}, {"str": "dc774da6a9b4c29d11669fc070268e0d5eb71e6a8ef22d493a32b6b2897de1a4"}]}'
+
+
+odaaa
